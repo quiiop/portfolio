@@ -1,0 +1,7 @@
+HI 你好，這是我的碩士研究，我的研究如何在達成SSD secure deletion的同時兼顧SSD的效能，我使用的方法是加入New Data Structure Sublk和開發對應的演算法達成需求。
+( 目前仍然持續研究中，此檔的結果未來會持續更新 !! )
+
+運行步驟 :
+1. 下載 FEMU
+2. 使用此資料夾的ftl.c ftlh 替換 FEMU/hw/femu/bbssd/ftl.c ftl.h。
+3. 重新編譯 FENU
